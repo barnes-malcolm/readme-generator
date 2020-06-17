@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A command line interface application designed to create a README.me",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barnes-malcolm/readme-generator.git"
+  },
+  "keywords": [
+    "readme",
+    "generator"
+  ],
+  "author": "Malcolm Barnes",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/barnes-malcolm/readme-generator/issues"
+  },
+  "homepage": "https://github.com/barnes-malcolm/readme-generator#readme"
+}
